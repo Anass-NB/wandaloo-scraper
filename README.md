@@ -35,13 +35,9 @@ pip install requests beautifulsoup4 pandas lxml
 python wandaloo_scraper.py
 ```
 
-### Command Line Options
-
-- `--limit N`: Limit to first N models (useful for testing)
-- `--output NAME`: Output filename prefix (default: "wandaloo_cars_final")
 
 ## 📁 Output Files
-
+### CSV File
 ### Sample JSON Structure
 
 ```json
