@@ -23,21 +23,28 @@ For each car model, the scraper extracts:
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### Usage
+
+```bash
+git clone https://github.com/Anass-NB/wandaloo-scraper.git
+```
+
+```bash
+cd wandaloo-scraper
+```
 
 ```bash
 pip install requests beautifulsoup4 pandas lxml
 ```
 
-### Basic Usage
-
 ```bash
 python wandaloo_scraper.py
 ```
 
-
 ## 📁 Output Files
+
 ### CSV File
+
 ### Sample JSON Structure
 
 ```json
