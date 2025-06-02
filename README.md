@@ -32,7 +32,7 @@ pip install requests beautifulsoup4 pandas lxml
 ### Basic Usage
 
 ```bash
-python final_wandaloo_scraper.py --limit
+python wandaloo_scraper.py
 ```
 
 ### Command Line Options
